@@ -1,2 +1,20 @@
-# Quiz-Game
-A responsive Quiz Game built using HTML, CSS, and JavaScript. It allows users to answer multiple-choice questions and displays the final score.
+# Quiz Game
+
+A responsive Quiz Game built using HTML, CSS, and JavaScript.
+
+## Features
+- Multiple-choice quiz
+- Instant score calculation
+- Responsive design
+- Easy-to-use interface
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Live Demo
+https://quiz-game-anushreef.netlify.app/
+
+## Author
+Anushree Fasate
